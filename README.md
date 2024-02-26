@@ -1,4 +1,4 @@
-[![MasterHead](https://www.behance.net/gallery/161921919/Portrait-animated-gif)](https://github.com/Nahor-irup)
+[![MasterHead]([https://www.behance.net/gallery/161921919/Portrait-animated-gif](https://trisya.com/myimg/child/Website%20Design.gif))](https://github.com/Nahor-irup)
 <h1 align="center">Hi 👋, I'm Rohan Puri</h1>
 <h3 align="center">A passionate mobile developer from Nepal</h3>
 <br/>
