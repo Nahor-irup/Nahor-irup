@@ -1,6 +1,6 @@
 [![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)](https://github.com/Nahor-irup)
 <h1 align="center">Hi 👋, I'm Rohan Puri</h1>
-<h3 align="center">A passionate mobile developer from Nepal</h3>
+<h3 align="center">A passionate app developer from Nepal</h3>
 <br/>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
